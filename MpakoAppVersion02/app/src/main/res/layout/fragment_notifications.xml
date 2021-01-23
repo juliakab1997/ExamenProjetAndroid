@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ui.notifications.NotificationsFragment">
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Objectif"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.138"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.22" />
+
+    <TextView
+        android:id="@+id/IdTitreNotifications"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="MpakoRL"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.047"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.022" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="321dp"
+        android:layout_height="96dp"
+        android:text="Mpako est une application créée par deux étudiants, LOSAMBE OKONDA Cédrick et KABEYA MPUTU Julie de la faculté des sciences département de Mathématique information, promotion BAC+3 informatiques."
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.494"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.023" />
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="324dp"
+        android:layout_height="319dp"
+        android:text="Il s’observe qu’après que le contribuable (locataire ou bailleur) ait payé, il doit se rendre au bureau de la DRHKAT avec sa déclaration et la preuve de paiement bancaire pour les présenter auprès de l’agent du bureau de recouvrement enfin qu’il constate le paiement et faire un apurement provisoire. Cela montre que la personne ne fait pas partie du système, et que le bureau aura un double travail de vérification du coté banque puis du côté contribuable (locataire ou bailleur). D’où une perte de temps. Notre objectif était de mettre en place une application mobile Android (que vous utilisé présentement) qui permettra de mettre en relation les clients (locataire et bailleur) et le bureau de la DRHKAT ; et d’épargner le double travaille au contribuable (celui de revenir présenter les preuves) et au bureau de recouvrement (celui de vérifier deux fois la même chose). "
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.517"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.725" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

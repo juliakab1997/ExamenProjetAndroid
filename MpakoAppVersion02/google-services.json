@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "750597789964",
+    "project_id": "mpako-edb3b",
+    "storage_bucket": "mpako-edb3b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:750597789964:android:034d3cb2f66ca94f229129",
+        "android_client_info": {
+          "package_name": "MpakoApp.Version"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "750597789964-9n3lelk6ai81jhqf5l4csmrmcnqtc7q6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZIHlf4y-rNnggT3c9sHX2Ppxlw2aCDtQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "750597789964-9n3lelk6ai81jhqf5l4csmrmcnqtc7q6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:750597789964:android:0e129fcd4d7891d0229129",
+        "android_client_info": {
+          "package_name": "mpako.rl.version.deux"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "750597789964-9n3lelk6ai81jhqf5l4csmrmcnqtc7q6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZIHlf4y-rNnggT3c9sHX2Ppxlw2aCDtQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "750597789964-9n3lelk6ai81jhqf5l4csmrmcnqtc7q6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
